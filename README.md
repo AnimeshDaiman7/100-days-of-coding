@@ -1,2 +1,16 @@
-# 100-days-of-coding
-My solutions for the 100 Days of Coding Challenge, including DSA, Mathematics, and LeetCode problems.
+# 100 Days of Coding
+
+This repository contains my solutions for the #DrGViswanathan 100 Days Coding Challenge.
+
+## Progress
+
+- Day 1 ✅
+
+Languages Used:
+- Python
+
+Topics:
+- Mathematics
+- Data Structures
+- Algorithms
+- LeetCode Problems
