@@ -2,17 +2,17 @@
 
 Welcome to my **100 Days of Coding** journey!
 
-This repository documents my daily progress as I practice **Data Structures & Algorithms (DSA)** through LeetCode. The objective is to build consistency, improve problem-solving skills, and strengthen my understanding of core computer science concepts.
+This repository documents my daily progress solving Data Structures & Algorithms (DSA) problems on LeetCode as part of the **#100DaysOfCode** and **#DrGViswanathan Coding Challenge**.
 
 ---
 
 ## 🎯 Goals
 
-* 📌 Solve coding problems every day.
-* 📌 Improve DSA fundamentals.
-* 📌 Prepare for technical interviews.
-* 📌 Track my learning publicly.
-* 📌 Build discipline through consistency.
+* Solve coding problems consistently.
+* Strengthen DSA fundamentals.
+* Improve problem-solving skills.
+* Prepare for technical interviews.
+* Share my learning journey publicly.
 
 ---
 
@@ -23,24 +23,27 @@ This repository documents my daily progress as I practice **Data Structures & Al
 
 ---
 
-## 📈 Progress
+## 📈 Progress Tracker
 
-| Day | Problem                         | Category               |
-| --- | ------------------------------- | ---------------------- |
-| 01  | Two Sum                         | Array, Hash Map        |
-| 02  | Remove Linked List Elements     | Linked List            |
-| 03  | Group Anagrams                  | Hash Map, String       |
-| 04  | Same Tree                       | Binary Tree, Recursion |
-| 05  | Top K Frequent Elements         | Hash Map               |
-| 06  | Invert Binary Tree              | Binary Tree, Recursion |
-| 07  | Best Time to Buy and Sell Stock | Array, Greedy          |
-| 08  | Min Stack                       | Stack                  |
-| 09  | Merge Intervals                 | Sorting, Greedy        |
-| 10  | Maximum Depth of Binary Tree    | Binary Tree, Recursion |
+| Day | Problem                         | Category                   |
+| --- | ------------------------------- | -------------------------- |
+| 01  | Two Sum                         | Array, Hash Map            |
+| 02  | Remove Linked List Elements     | Linked List                |
+| 03  | Group Anagrams                  | Hash Map, String           |
+| 04  | Same Tree                       | Binary Tree, Recursion     |
+| 05  | Top K Frequent Elements         | Hash Map                   |
+| 06  | Invert Binary Tree              | Binary Tree, Recursion     |
+| 07  | Best Time to Buy and Sell Stock | Array, Greedy              |
+| 08  | Min Stack                       | Stack                      |
+| 09  | Merge Intervals                 | Sorting, Greedy            |
+| 10  | Maximum Depth of Binary Tree    | Binary Tree, Recursion     |
+| 11  | Maximum Subarray                | Array, Dynamic Programming |
 
 ---
 
 ## 📚 Topics Covered
+
+### Data Structures
 
 * ✅ Arrays
 * ✅ Strings
@@ -48,27 +51,36 @@ This repository documents my daily progress as I practice **Data Structures & Al
 * ✅ Linked Lists
 * ✅ Stacks
 * ✅ Binary Trees
+
+### Algorithms
+
 * ✅ Recursion
-* ✅ Greedy Algorithms
 * ✅ Sorting
-* ✅ Interval Problems
+* ✅ Greedy Algorithms
+* ✅ Dynamic Programming (Kadane's Algorithm)
+* ✅ Interval Merging
 
-### 🔜 Coming Next
+---
 
-* Binary Search
-* Two Pointers
-* Sliding Window
-* Heap / Priority Queue
-* Graphs (BFS & DFS)
-* Backtracking
-* Dynamic Programming
-* Tries
+## 🏆 Milestones
+
+### First 10 Days
+
+* ✅ 10 Problems Solved
+* ✅ Consistency Maintained
+* ✅ Core DSA Topics Covered
+
+### Current Stats
+
+* 🔥 Problems Solved: 11
+* 📅 Current Streak: 11 Days
+* 🧠 Topics Explored: Arrays, Linked Lists, Trees, Hash Maps, Stacks, Greedy & Dynamic Programming
 
 ---
 
 ## 📂 Repository Structure
 
-```text
+```text id="2x4lva"
 100-days-of-coding/
 │
 ├── README.md
@@ -81,33 +93,21 @@ This repository documents my daily progress as I practice **Data Structures & Al
 ├── Day-07/
 ├── Day-08/
 ├── Day-09/
-└── Day-10/
+├── Day-10/
+└── Day-11/
 ```
 
-Each day's folder contains:
+Each folder contains:
 
-* `problem.md` → Problem statement and approach.
-* `solution.py` → Python implementation.
-
----
-
-## 🏆 Milestone Achieved
-
-### First 10 Days
-
-* ✅ 10 Problems Solved
-* ✅ 10 Consecutive Days Maintained
-* ✅ Multiple Core DSA Topics Covered
-* ✅ Public Learning Journey on GitHub & LinkedIn
+* `problem.md`
+* `solution.py`
 
 ---
 
-## 💭 Why This Repository?
+## 💭 Quote
 
 > *"Success is the sum of small efforts, repeated day in and day out."*
-> **— Robert Collier**
-
-This repository is my commitment to continuous learning and self-improvement. Every problem solved represents another step toward becoming a better software engineer.
+> — Robert Collier
 
 ---
 
@@ -115,10 +115,13 @@ This repository is my commitment to continuous learning and self-improvement. Ev
 
 **GitHub:** https://github.com/AnimeshDaiman7
 
-I'm also sharing my journey on LinkedIn through the **#100DaysOfCode** and **#DrGViswanathan** coding challenge.
+Following my journey through:
+
+* #100DaysOfCode
+* #DrGViswanathan
 
 ---
 
-⭐ If you find this repository helpful or would like to follow my journey, feel free to star the repository!
+⭐ If you find this repository useful, consider giving it a star!
 
 **Happy Coding! 🚀**
