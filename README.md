@@ -30,6 +30,7 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 | 11 | Maximum Subarray | Dynamic Programming |
 | 12 | Reverse Linked List | Linked List |
 | 13 | Product of Array Except Self | Arrays, Prefix & Postfix Products |
+| 14 | Symmetric Tree | Binary Tree, Recursion |
 
 ---
 
@@ -61,9 +62,9 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 - ✅ Core DSA Topics Covered
 
 ### Current Progress
-- 🔥 Problems Solved: **13**
-- 📅 Current Streak: **13 Days**
-- 🎯 Goal: **100 Days**
+🔥 Problems Solved: 14
+📅 Current Streak: 14 Days
+🎯 Goal: 100 Days
 
 ---
 
@@ -86,6 +87,7 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 ├── Day-11/
 ├── Day-12/
 └── Day-13/
+└── Day-14/
 ```
 
 Each folder contains:
