@@ -31,6 +31,7 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 | 12 | Reverse Linked List | Linked List |
 | 13 | Product of Array Except Self | Arrays, Prefix & Postfix Products |
 | 14 | Symmetric Tree | Binary Tree, Recursion |
+| 15 | Two Sum II - Input Array Is Sorted | Two Pointers, Arrays |
 
 ---
 
@@ -62,10 +63,9 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 - ✅ Core DSA Topics Covered
 
 ### Current Progress
-🔥 Problems Solved: 14
-📅 Current Streak: 14 Days
+🔥 Problems Solved: 15
+📅 Current Streak: 15 Days
 🎯 Goal: 100 Days
-
 ---
 
 ## 📂 Repository Structure
@@ -86,8 +86,9 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 ├── Day-10/
 ├── Day-11/
 ├── Day-12/
-└── Day-13/
-└── Day-14/
+├── Day-13/
+├── Day-14/
+└── Day-15/
 ```
 
 Each folder contains:
