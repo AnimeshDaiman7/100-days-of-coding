@@ -33,7 +33,7 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 | 14 | Symmetric Tree | Binary Tree, Recursion |
 | 15 | Two Sum II - Input Array Is Sorted | Two Pointers, Arrays |
 | 16 | Balanced Binary Tree | Binary Tree, DFS, Recursion |
-| 17 | 3Sum | Medium | Arrays, Sorting, Two Pointers |
+| 17 | 3Sum | Arrays, Sorting, Two Pointers |
 
 ---
 
