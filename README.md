@@ -34,6 +34,7 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 | 15 | Two Sum II - Input Array Is Sorted | Two Pointers, Arrays |
 | 16 | Balanced Binary Tree | Binary Tree, DFS, Recursion |
 | 17 | 3Sum | Arrays, Sorting, Two Pointers |
+| 18 | Diameter of Binary Tree | Binary Tree, DFS, Recursion |
 
 ---
 
@@ -65,8 +66,8 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 - ✅ Core DSA Topics Covered
 
 ### Current Progress
-🔥 Problems Solved: 17/100
-📅 Current Streak: 17 Days
+🔥 Problems Solved: 18/100
+📅 Current Streak: 18 Days
 🎯 Goal: 100 Days
 ---
 
@@ -92,7 +93,8 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 ├── Day-14/
 ├── Day-15/
 ├── Day-16/
-└── Day-17/
+├── Day-17/
+└── Day-18/
 ```
 
 Each folder contains:
