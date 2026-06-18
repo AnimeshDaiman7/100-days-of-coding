@@ -36,6 +36,7 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 | 17 | 3Sum | Arrays, Sorting, Two Pointers |
 | 18 | Diameter of Binary Tree | Binary Tree, DFS, Recursion |
 | 19 | Binary Search | Binary Search, Arrays |
+| 20 | Linked List Cycle | Linked List, Two Pointers, Fast & Slow Pointers |
 
 ---
 
@@ -67,8 +68,8 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 - ✅ Core DSA Topics Covered
 
 ### Current Progress
-🔥 Problems Solved: 19/100
-📅 Current Streak: 19 Days
+🔥 Problems Solved: 20/100
+📅 Current Streak: 20 Days
 🎯 Goal: 100 Days
 ---
 
@@ -96,7 +97,8 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 ├── Day-16/
 ├── Day-17/
 ├── Day-18/
-└── Day-19/
+├── Day-19/
+└── Day-20/
 ```
 
 Each folder contains:
