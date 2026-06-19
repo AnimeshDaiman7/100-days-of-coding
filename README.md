@@ -99,7 +99,8 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 ├── Day-17/
 ├── Day-18/
 ├── Day-19/
-└── Day-20/
+├── Day-20/
+└── Day-21/
 ```
 
 Each folder contains:
