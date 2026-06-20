@@ -38,7 +38,7 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 | 19 | Binary Search | Binary Search, Arrays |
 | 20 | Linked List Cycle | Linked List, Two Pointers, Fast & Slow Pointers |
 | 21 | Search in Rotated Sorted Array | Binary Search, Divide & Conquer |
-
+| 22 | Remove Nth Node From End of List | Linked List, Two Pointers |
 ---
 
 ## 📚 Topics Covered
@@ -69,8 +69,8 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 - ✅ Core DSA Topics Covered
 
 ### Current Progress
-🔥 Problems Solved: 21
-📅 Current Streak: 21 Days
+🔥 Problems Solved: 22
+📅 Current Streak: 22 Days
 🎯 Goal: 100 Days
 ---
 
@@ -100,7 +100,8 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 ├── Day-18/
 ├── Day-19/
 ├── Day-20/
-└── Day-21/
+├── Day-21/
+└── Day-22/
 ```
 
 Each folder contains:
