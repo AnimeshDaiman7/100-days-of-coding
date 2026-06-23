@@ -40,6 +40,8 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 | 21 | Search in Rotated Sorted Array | Binary Search, Divide & Conquer |
 | 22 | Remove Nth Node From End of List | Linked List, Two Pointers |
 | 23 | Ransom Note | Hash Map, String |
+| 24 | Lowest Common Ancestor of a BST | Binary Search Tree, Tree Traversal |
+| 25 | Merge Two Sorted Lists | Linked List, Two Pointers |
 ---
 
 ## 📚 Topics Covered
@@ -70,8 +72,8 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 - ✅ Core DSA Topics Covered
 
 ### Current Progress
-🔥 Problems Solved: 23
-📅 Current Streak: 23 Days
+🔥 Problems Solved: 25
+📅 Current Streak: 25 Days
 🎯 Goal: 100 Days
 ---
 
@@ -103,7 +105,9 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 ├── Day-20/
 ├── Day-21/
 ├── Day-22/
-└── Day-23/
+├── Day-23/
+├── Day-24/
+└── Day-25/
 ```
 
 Each folder contains:
