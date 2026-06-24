@@ -42,6 +42,7 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 | 23 | Ransom Note | Hash Map, String |
 | 24 | Lowest Common Ancestor of a BST | Binary Search Tree, Tree Traversal |
 | 25 | Merge Two Sorted Lists | Linked List, Two Pointers |
+| 26 | Kth Smallest Element in a BST | BST, Inorder Traversal |
 ---
 
 ## 📚 Topics Covered
@@ -72,8 +73,8 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 - ✅ Core DSA Topics Covered
 
 ### Current Progress
-🔥 Problems Solved: 25
-📅 Current Streak: 25 Days
+🔥 Problems Solved: 26
+📅 Current Streak: 26 Days
 🎯 Goal: 100 Days
 ---
 
@@ -107,7 +108,8 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 ├── Day-22/
 ├── Day-23/
 ├── Day-24/
-└── Day-25/
+├── Day-25/
+└── Day-26/
 ```
 
 Each folder contains:
