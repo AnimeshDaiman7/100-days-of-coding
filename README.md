@@ -43,6 +43,7 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 | 24 | Lowest Common Ancestor of a BST | Binary Search Tree, Tree Traversal |
 | 25 | Merge Two Sorted Lists | Linked List, Two Pointers |
 | 26 | Kth Smallest Element in a BST | BST, Inorder Traversal |
+| 27 | Is Subsequence | Strings, Two Pointers |
 ---
 
 ## 📚 Topics Covered
@@ -73,8 +74,8 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 - ✅ Core DSA Topics Covered
 
 ### Current Progress
-🔥 Problems Solved: 26
-📅 Current Streak: 26 Days
+🔥 Problems Solved: 27
+📅 Current Streak: 27 Days
 🎯 Goal: 100 Days
 ---
 
@@ -109,6 +110,7 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 ├── Day-23/
 ├── Day-24/
 ├── Day-25/
+├── Day-26/
 └── Day-26/
 ```
 
