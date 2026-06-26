@@ -44,6 +44,7 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 | 25 | Merge Two Sorted Lists | Linked List, Two Pointers |
 | 26 | Kth Smallest Element in a BST | BST, Inorder Traversal |
 | 27 | Is Subsequence | Strings, Two Pointers |
+| 28 | Flood Fill | DFS, Graphs, Matrix Traversal |
 ---
 
 ## 📚 Topics Covered
@@ -74,8 +75,8 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 - ✅ Core DSA Topics Covered
 
 ### Current Progress
-🔥 Problems Solved: 27
-📅 Current Streak: 27 Days
+🔥 Problems Solved: 28
+📅 Current Streak: 28 Days
 🎯 Goal: 100 Days
 ---
 
@@ -111,7 +112,9 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 ├── Day-24/
 ├── Day-25/
 ├── Day-26/
-└── Day-26/
+├── Day-27/
+└── Day-28/
+
 ```
 
 Each folder contains:
