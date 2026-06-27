@@ -45,6 +45,7 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 | 26 | Kth Smallest Element in a BST | BST, Inorder Traversal |
 | 27 | Is Subsequence | Strings, Two Pointers |
 | 28 | Flood Fill | DFS, Graphs, Matrix Traversal |
+| 29 | Unique Paths | Dynamic Programming |
 ---
 
 ## 📚 Topics Covered
@@ -75,8 +76,8 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 - ✅ Core DSA Topics Covered
 
 ### Current Progress
-🔥 Problems Solved: 28
-📅 Current Streak: 28 Days
+🔥 Problems Solved: 29
+📅 Current Streak: 29 Days
 🎯 Goal: 100 Days
 ---
 
@@ -113,8 +114,8 @@ This repository contains my daily solutions to Data Structures & Algorithms (DSA
 ├── Day-25/
 ├── Day-26/
 ├── Day-27/
-└── Day-28/
-
+├── Day-28/
+├── Day-29/
 ```
 
 Each folder contains:
