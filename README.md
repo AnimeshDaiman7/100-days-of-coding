@@ -1,170 +1,226 @@
+```markdown
+<div align="center">
+
 # 🚀 100 Days of Coding
+
+### Solving LeetCode Daily • Mastering Data Structures & Algorithms
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange)](https://leetcode.com/)
+[![Progress](https://img.shields.io/badge/Progress-30%25-success)]()
+[![Days](https://img.shields.io/badge/Day-30-red)]()
+
+---
+
+### 💻 Building consistency, one problem at a time.
+
+</div>
+
+---
+
+# 📖 About
 
 Welcome to my **100 Days of Coding** journey!
 
-This repository contains my daily solutions to Data Structures & Algorithms (DSA) problems as part of the **#100DaysOfCode** and **#DrGViswanathan Coding Challenge**.
+I'm solving **one or more LeetCode problems every day** to strengthen my understanding of:
+
+- Data Structures
+- Algorithms
+- Problem Solving
+- Interview Preparation
+- Python Programming
+
+This repository contains my daily solutions along with explanations and approaches.
 
 ---
 
-## 🛠️ Tech Stack
+# 🎯 Goals
 
-- Python 🐍
-- LeetCode
-
----
-
-## 📈 Progress Tracker
-
-| Day | Problem | Topic |
-|-----|---------|--------|
-| 01 | Two Sum | Array, Hash Map |
-| 02 | Remove Linked List Elements | Linked List |
-| 03 | Group Anagrams | Hash Map, String |
-| 04 | Same Tree | Binary Tree, Recursion |
-| 05 | Top K Frequent Elements | Hash Map |
-| 06 | Invert Binary Tree | Binary Tree, Recursion |
-| 07 | Best Time to Buy and Sell Stock | Array, Greedy |
-| 08 | Min Stack | Stack |
-| 09 | Merge Intervals | Sorting, Greedy |
-| 10 | Maximum Depth of Binary Tree | Binary Tree, Recursion |
-| 11 | Maximum Subarray | Dynamic Programming |
-| 12 | Reverse Linked List | Linked List |
-| 13 | Product of Array Except Self | Arrays, Prefix & Postfix Products |
-| 14 | Symmetric Tree | Binary Tree, Recursion |
-| 15 | Two Sum II - Input Array Is Sorted | Two Pointers, Arrays |
-| 16 | Balanced Binary Tree | Binary Tree, DFS, Recursion |
-| 17 | 3Sum | Arrays, Sorting, Two Pointers |
-| 18 | Diameter of Binary Tree | Binary Tree, DFS, Recursion |
-| 19 | Binary Search | Binary Search, Arrays |
-| 20 | Linked List Cycle | Linked List, Two Pointers, Fast & Slow Pointers |
-| 21 | Search in Rotated Sorted Array | Binary Search, Divide & Conquer |
-| 22 | Remove Nth Node From End of List | Linked List, Two Pointers |
-| 23 | Ransom Note | Hash Map, String |
-| 24 | Lowest Common Ancestor of a BST | Binary Search Tree, Tree Traversal |
-| 25 | Merge Two Sorted Lists | Linked List, Two Pointers |
-| 26 | Kth Smallest Element in a BST | BST, Inorder Traversal |
-| 27 | Is Subsequence | Strings, Two Pointers |
-| 28 | Flood Fill | DFS, Graphs, Matrix Traversal |
-| 29 | Unique Paths | Dynamic Programming |
----
-
-## 📚 Topics Covered
-
-### Data Structures
-- ✅ Arrays
-- ✅ Strings
-- ✅ Hash Maps
-- ✅ Linked Lists
-- ✅ Stacks
-- ✅ Binary Trees
-
-### Algorithms
-- ✅ Recursion
-- ✅ Sorting
-- ✅ Greedy Algorithms
-- ✅ Dynamic Programming
-- ✅ Prefix & Postfix Products
-- ✅ Interval Merging
+- ✅ Solve LeetCode consistently
+- ✅ Master DSA patterns
+- ✅ Improve coding speed
+- ✅ Write clean and optimized code
+- ✅ Stay consistent for 100 Days
 
 ---
 
-## 🏆 Milestones
+# 📊 Current Progress
 
-### First 10 Days
-- ✅ 10 Problems Solved
-- ✅ Consistency Maintained
-- ✅ Core DSA Topics Covered
+| Metric | Value |
+|---------|-------|
+| 🔥 Problems Solved | **30** |
+| 📅 Current Streak | **30 Days** |
+| 🎯 Goal | **100 Days** |
+| 📈 Progress | **30%** |
+| 💻 Language | Python |
+| 📚 Platform | LeetCode |
 
-### Current Progress
-🔥 Problems Solved: 29
-📅 Current Streak: 29 Days
-🎯 Goal: 100 Days
 ---
 
-## 📂 Repository Structure
+# 🧠 Topics Covered
 
-```text
-100-days-of-coding/
-│
-├── README.md
-├── Day-01/
-├── Day-02/
-├── Day-03/
-├── Day-04/
-├── Day-05/
-├── Day-06/
-├── Day-07/
-├── Day-08/
-├── Day-09/
-├── Day-10/
-├── Day-11/
-├── Day-12/
-├── Day-13/
-├── Day-14/
-├── Day-15/
-├── Day-16/
-├── Day-17/
-├── Day-18/
-├── Day-19/
-├── Day-20/
-├── Day-21/
-├── Day-22/
-├── Day-23/
-├── Day-24/
-├── Day-25/
-├── Day-26/
-├── Day-27/
-├── Day-28/
-├── Day-29/
+| Topic | Status |
+|--------|--------|
+| ✅ Arrays | ✔ |
+| ✅ Strings | ✔ |
+| ✅ Hash Maps | ✔ |
+| ✅ Two Pointers | ✔ |
+| ✅ Binary Search | ✔ |
+| ✅ Linked Lists | ✔ |
+| ✅ Binary Trees | ✔ |
+| ✅ Binary Search Trees | ✔ |
+| ✅ DFS | ✔ |
+| ✅ BFS | ✔ |
+| ✅ Matrix Traversal | ✔ |
+| ✅ Dynamic Programming | ✔ |
+| ✅ Recursion | ✔ |
+| ✅ Stack | ✔ |
+| ✅ Queue | ✔ |
+
+---
+
+# 📂 Repository Structure
+
 ```
 
-Each folder contains:
-- `problem.md`
-- `solution.py`
+100-days-of-coding/
+
+│
+├── Day-01/
+│   ├── problem.md
+│   └── solution.py
+│
+├── Day-02/
+│   ├── problem.md
+│   └── solution.py
+│
+├── ...
+│
+├── Day-30/
+│   ├── problem.md
+│   └── solution.py
+│
+└── README.md
+
+````
 
 ---
 
-## 📊 DSA Roadmap Progress
+# 📅 Progress Log
 
-### Completed
-- ✅ Arrays
-- ✅ Hash Maps
-- ✅ Linked Lists
-- ✅ Stacks
-- ✅ Binary Trees
-- ✅ Recursion
-- ✅ Greedy
-- ✅ Dynamic Programming Basics
-
-### Coming Next
-- ⏳ Two Pointers
-- ⏳ Sliding Window
-- ⏳ Binary Search
-- ⏳ Heap / Priority Queue
-- ⏳ Graphs (BFS & DFS)
-- ⏳ Backtracking
-- ⏳ Advanced Dynamic Programming
-
----
-
-## 💡 Favorite Quote
-
-> *"Success is the sum of small efforts, repeated day in and day out."*
->
-> — Robert Collier
-
----
-
-## 🔗 Connect With Me
-
-- GitHub: https://github.com/AnimeshDaiman7
-
-Following my journey through:
-- #100DaysOfCode
-- #DrGViswanathan
+| Day | Problem | Difficulty | Topic |
+|----:|---------|------------|-------|
+| 1 | Two Sum | Easy | Arrays, Hash Map |
+| 2 | Best Time to Buy and Sell Stock | Easy | Arrays |
+| 3 | Contains Duplicate | Easy | Hash Map |
+| 4 | Valid Anagram | Easy | Strings |
+| 5 | Valid Parentheses | Easy | Stack |
+| 6 | Binary Search | Easy | Binary Search |
+| 7 | Diameter of Binary Tree | Easy | Binary Tree |
+| 8 | Invert Binary Tree | Easy | Binary Tree |
+| 9 | Maximum Depth of Binary Tree | Easy | Binary Tree |
+| 10 | Same Tree | Easy | Binary Tree |
+| 11 | Symmetric Tree | Easy | Binary Tree |
+| 12 | Linked List Cycle | Easy | Linked List |
+| 13 | Search in Rotated Sorted Array | Medium | Binary Search |
+| 14 | Remove Nth Node From End of List | Medium | Linked List |
+| 15 | Ransom Note | Easy | Hash Map |
+| 16 | Lowest Common Ancestor of a BST | Medium | BST |
+| 17 | Merge Two Sorted Lists | Easy | Linked List |
+| 18 | Kth Smallest Element in a BST | Medium | BST |
+| 19 | Is Subsequence | Easy | Two Pointers |
+| 20 | Flood Fill | Easy | DFS |
+| 21 | Unique Paths | Medium | Dynamic Programming |
+| 22 | Path Sum | Easy | Binary Tree |
+| 23 | Problem | - | - |
+| 24 | Problem | - | - |
+| 25 | Problem | - | - |
+| 26 | Problem | - | - |
+| 27 | Problem | - | - |
+| 28 | Problem | - | - |
+| 29 | Problem | - | - |
+| 30 | Problem | - | - |
 
 ---
 
-⭐ If you find this repository useful, feel free to star it and follow my journey!
+# 🏆 Milestones
 
-**Happy Coding! 🚀**
+- ✅ 10 Problems Solved
+- ✅ 20 Problems Solved
+- ✅ 30 Problems Solved
+
+### 🎯 Next Milestone
+
+**50 Problems Solved**
+
+---
+
+# 💡 What I've Learned
+
+- Writing clean Python code
+- Optimizing brute-force solutions
+- Recursion
+- Binary Search
+- Fast & Slow Pointer Technique
+- Tree Traversals
+- DFS & BFS
+- Dynamic Programming
+- Two Pointer Technique
+- Hash Maps
+- Matrix Traversal
+- Binary Search Trees
+- Linked List Manipulation
+
+---
+
+# 🚀 Tech Stack
+
+- Python 3
+- LeetCode
+- Git
+- GitHub
+- VS Code
+
+---
+
+# 📈 Repository Stats
+
+```text
+🔥 Problems Solved : 30
+📅 Current Streak : 30 Days
+🎯 Goal           : 100 Days
+📈 Progress       : 30%
+💻 Language       : Python
+📚 Platform       : LeetCode
+````
+
+---
+
+# 🤝 Connect With Me
+
+### LinkedIn
+
+[www.linkedin.com/in/animesh-daiman](http://www.linkedin.com/in/animesh-daiman)
+
+### GitHub
+
+https://github.com/AnimeshDaiman7
+
+---
+
+# ⭐ If you like this repository
+
+Give it a ⭐ and follow my journey towards **100 Days of Coding!**
+
+---
+
+<div align="center">
+
+### 🚀 Consistency > Motivation
+
+**One problem. Every day. Every single day.**
+
+**#100DaysOfCode**
+
+</div>
+```
