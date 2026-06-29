@@ -44,10 +44,10 @@ The objective is not just to solve problems but to develop a deep understanding 
 
 | Metric             |            Value |
 | ------------------ | ---------------: |
-| 🔥 Problems Solved |           **30** |
-| 📅 Current Streak  |      **30 Days** |
+| 🔥 Problems Solved |           **31** |
+| 📅 Current Streak  |      **31 Days** |
 | 🎯 Challenge Goal  |     **100 Days** |
-| 📈 Progress        | **30% Complete** |
+| 📈 Progress        | **31% Complete** |
 | 💻 Language        |           Python |
 | 📚 Platform        |         LeetCode |
 
@@ -92,7 +92,7 @@ The objective is not just to solve problems but to develop a deep understanding 
 │
 ├── ...
 │
-├── Day-30
+├── Day-31
 │
 └── solution.py + problem.md
 ```
@@ -123,6 +123,7 @@ Each folder contains:
 |  13 | Product of Array Except Self       | Arrays                      |
 |  14 | Symmetric Tree                     | Binary Tree                 |
 |  15 | Two Sum II – Input Array Is Sorted | Two Pointers, Binary Search |
+
 # 📅 Daily Progress (Days 16–30)
 
 | Day | Problem                          | Difficulty | Topics                           |
@@ -375,8 +376,8 @@ By the end of this challenge, I aim to:
 # 📊 Overall Journey
 
 ```text
-Days Completed      : 30 / 100
-Problems Solved     : 30
+Days Completed      : 31 / 100
+Problems Solved     : 31
 Language            : Python
 Platform            : LeetCode
 Consistency         : ⭐⭐⭐⭐⭐
@@ -406,7 +407,7 @@ Each day's folder contains:
 Example:
 
 ```text
-Day-30/
+Day-31/
 ├── problem.md
 └── solution.py
 ```
