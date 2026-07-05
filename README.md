@@ -44,10 +44,10 @@ The objective is not just to solve problems but to develop a deep understanding 
 
 | Metric             |            Value |
 | ------------------ | ---------------: |
-| 🔥 Problems Solved |           **36** |
-| 📅 Current Streak  |      **36 Days** |
+| 🔥 Problems Solved |           **37** |
+| 📅 Current Streak  |      **37 Days** |
 | 🎯 Challenge Goal  |     **100 Days** |
-| 📈 Progress        | **36% Complete** |
+| 📈 Progress        | **37% Complete** |
 | 💻 Language        |           Python |
 | 📚 Platform        |         LeetCode |
 
@@ -92,7 +92,7 @@ The objective is not just to solve problems but to develop a deep understanding 
 │
 ├── ...
 │
-├── Day-36
+├── Day-37
 │
 └── solution.py + problem.md
 ```
@@ -295,7 +295,7 @@ After 30 days, I have learned:
 ```text
 ██████░░░░░░░░░░░░ 36%
 
-Day 36 / 100
+Day 37 / 100
 ```
 # 🚀 Tech Stack
 
@@ -376,8 +376,8 @@ By the end of this challenge, I aim to:
 # 📊 Overall Journey
 
 ```text
-Days Completed      : 36 / 100
-Problems Solved     : 36
+Days Completed      : 37 / 100
+Problems Solved     : 37
 Language            : Python
 Platform            : LeetCode
 Consistency         : ⭐⭐⭐⭐⭐
@@ -407,7 +407,7 @@ Each day's folder contains:
 Example:
 
 ```text
-Day-36/
+Day-37/
 ├── problem.md
 └── solution.py
 ```
