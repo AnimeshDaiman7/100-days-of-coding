@@ -8,8 +8,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge\&logo=python)
 ![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge\&logo=leetcode)
-![Progress](https://img.shields.io/badge/Progress-39%25-success?style=for-the-badge)
-![Days](https://img.shields.io/badge/Completed-39_Days-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-40%25-success?style=for-the-badge)
+![Days](https://img.shields.io/badge/Completed-40_Days-red?style=for-the-badge)
 
 ---
 
@@ -44,10 +44,10 @@ The objective is not just to solve problems but to develop a deep understanding 
 
 | Metric             |            Value |
 | ------------------ | ---------------: |
-| 🔥 Problems Solved |           **39** |
-| 📅 Current Streak  |      **39 Days** |
+| 🔥 Problems Solved |           **40** |
+| 📅 Current Streak  |      **40 Days** |
 | 🎯 Challenge Goal  |     **100 Days** |
-| 📈 Progress        | **39% Complete** |
+| 📈 Progress        | **40% Complete** |
 | 💻 Language        |           Python |
 | 📚 Platform        |         LeetCode |
 
@@ -92,7 +92,7 @@ The objective is not just to solve problems but to develop a deep understanding 
 │
 ├── ...
 │
-├── Day-39
+├── Day-40
 │
 └── solution.py + problem.md
 ```
@@ -293,9 +293,9 @@ After 30 days, I have learned:
 # 🎯 Current Progress
 
 ```text
-██████░░░░░░░░░░░░ 39%
+██████░░░░░░░░░░░░ 40%
 
-Day 39 / 100
+Day 40 / 100
 ```
 # 🚀 Tech Stack
 
@@ -376,8 +376,8 @@ By the end of this challenge, I aim to:
 # 📊 Overall Journey
 
 ```text
-Days Completed      : 39 / 100
-Problems Solved     : 39
+Days Completed      : 40 / 100
+Problems Solved     : 40
 Language            : Python
 Platform            : LeetCode
 Consistency         : ⭐⭐⭐⭐⭐
@@ -407,7 +407,7 @@ Each day's folder contains:
 Example:
 
 ```text
-Day-39/
+Day-40/
 ├── problem.md
 └── solution.py
 ```
