@@ -149,3 +149,14 @@ Day 50 / 100
 Made with ❤️ by **Animesh Daiman**
 
 </div>
+---
+
+## ✅ Day 50
+
+🎉 **Halfway Milestone Achieved!**
+
+- Solved **50 LeetCode problems** in 50 consecutive days.
+- Strengthened DSA foundations across Arrays, Trees, Graphs, Dynamic Programming, Greedy, Prefix Sum, and more.
+- Built consistency through daily practice as part of **#100DaysOfCode** and **#DrGViswanathanChallenge**.
+- Ready for the next milestone: **Day 75**.
+
