@@ -8,8 +8,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode)
-![Progress](https://img.shields.io/badge/Progress-53%25-success?style=for-the-badge)
-![Days](https://img.shields.io/badge/Completed-53_Days-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-54%25-success?style=for-the-badge)
+![Days](https://img.shields.io/badge/Completed-54_Days-red?style=for-the-badge)
 
 ---
 
@@ -46,10 +46,10 @@ Today marks **Day 50**, representing the halfway point of this incredible journe
 
 | Metric | Value |
 |------------------|---------------:|
-| 🔥 Problems Solved | **51** |
-| 📅 Current Streak | **51 Days** |
+| 🔥 Problems Solved | **54** |
+| 📅 Current Streak | **55 Days** |
 | 🎯 Challenge Goal | **100 Days** |
-| 📈 Progress | **51% Complete** |
+| 📈 Progress | **54% Complete** |
 | 💻 Language | Python |
 | 📚 Platform | LeetCode |
 
@@ -101,7 +101,7 @@ Today marks **Day 50**, representing the halfway point of this incredible journe
 ├── Day-48
 ├── Day-49
 ├── Day-50
-├── Day-52
+├── Day-54
 │
 └── solution.py + problem.md
 ```
