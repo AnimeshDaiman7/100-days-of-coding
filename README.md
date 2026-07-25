@@ -8,8 +8,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode)
-![Progress](https://img.shields.io/badge/Progress-56%25-success?style=for-the-badge)
-![Days](https://img.shields.io/badge/Completed-56_Days-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-57%25-success?style=for-the-badge)
+![Days](https://img.shields.io/badge/Completed-57_Days-red?style=for-the-badge)
 
 ---
 
@@ -46,10 +46,10 @@ Today marks **Day 50**, representing the halfway point of this incredible journe
 
 | Metric | Value |
 |------------------|---------------:|
-| 🔥 Problems Solved | **56** |
-| 📅 Current Streak | **56 Days** |
+| 🔥 Problems Solved | **57** |
+| 📅 Current Streak | **57 Days** |
 | 🎯 Challenge Goal | **100 Days** |
-| 📈 Progress | **56% Complete** |
+| 📈 Progress | **57% Complete** |
 | 💻 Language | Python |
 | 📚 Platform | LeetCode |
 
@@ -101,7 +101,7 @@ Today marks **Day 50**, representing the halfway point of this incredible journe
 ├── Day-48
 ├── Day-49
 ├── Day-50
-├── Day-56
+├── Day-57
 │
 └── solution.py + problem.md
 ```
@@ -370,9 +370,9 @@ Throughout these 50 days, I have learned:
 ```
 █████████████████████░░░░░░░░░░░░░░░░░░░░
 
-          56 / 100 Days
+          57 / 100 Days
 
-             56%
+             57%
 ```
 
 ---
