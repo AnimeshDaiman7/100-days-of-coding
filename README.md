@@ -2,18 +2,20 @@
 
 <div align="center">
 
-## 💻 100 Days of Coding Challenge
+# 💻 100 Days of Coding Challenge
 
-### Solving LeetCode Problems Daily | Mastering Data Structures & Algorithms
+### Solving LeetCode Problems Daily | Mastering Data Structures & Algorithms | Python
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode)
-![Progress](https://img.shields.io/badge/Progress-59%25-success?style=for-the-badge)
-![Days](https://img.shields.io/badge/Completed-59_Days-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-60%25-success?style=for-the-badge)
+![Completed](https://img.shields.io/badge/Completed-60_Days-red?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 ---
 
-> **"Consistency compounds. One problem every day is better than 100 problems in one day."**
+> **"Consistency beats intensity. One problem every day is building the engineer I want to become."**
 
 </div>
 
@@ -23,66 +25,126 @@
 
 Welcome to my **100 Days of Coding** repository!
 
-This repository documents my daily progress in solving **LeetCode** problems using **Python** as part of the **#100DaysOfCode** and **#DrGViswanathanChallenge**.
+This repository documents my journey of solving **one LeetCode problem every day** using **Python** while continuously improving my understanding of **Data Structures and Algorithms (DSA).**
 
-The objective is not just to solve problems but to develop a deep understanding of **Data Structures & Algorithms**, improve analytical thinking, and prepare for technical interviews.
+This challenge is part of both the **#100DaysOfCode** movement and the **#DrGViswanathanChallenge**, encouraging discipline, continuous learning, and consistent improvement.
 
-Today marks **Day 50**, representing the halfway point of this incredible journey. Every problem solved has strengthened my problem-solving skills, introduced me to new algorithmic patterns, and reinforced the value of consistency.
+Currently, I have completed **60 consecutive days** of coding, solving a wide variety of algorithmic problems covering:
+
+- Arrays
+- Strings
+- Hash Maps
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Graphs
+- Binary Search
+- Dynamic Programming
+- Greedy Algorithms
+- Matrix Problems
+- Prefix Sum
+- Bit Manipulation
+- Depth First Search (DFS)
+- Breadth First Search (BFS)
+
+Rather than simply collecting accepted solutions, this repository focuses on:
+
+- Understanding algorithmic patterns
+- Writing clean and optimized code
+- Improving time and space complexity
+- Preparing for coding interviews
+- Building consistency through daily practice
+
+Every day's folder contains both the solution and notes explaining the approach used.
 
 ---
 
-# 🎯 Goals
+# 🎯 Challenge Goals
+
+## Primary Goals
 
 - ✅ Solve at least one LeetCode problem every day.
-- ✅ Build consistency and discipline.
-- ✅ Strengthen DSA fundamentals.
-- ✅ Improve coding speed and optimization skills.
-- ✅ Prepare for software engineering interviews.
-- ✅ Document my learning journey publicly.
+- ✅ Complete all 100 days without breaking the streak.
+- ✅ Master Data Structures and Algorithms.
+- ✅ Improve coding speed and logical thinking.
+- ✅ Write optimized and readable Python solutions.
+- ✅ Build interview-ready problem-solving skills.
+
+---
+
+## Secondary Goals
+
+- Learn new algorithmic patterns.
+- Improve debugging skills.
+- Strengthen problem analysis.
+- Build consistency.
+- Maintain GitHub activity.
+- Document every day's learning.
 
 ---
 
 # 📊 Progress Dashboard
 
-| Metric | Value |
-|------------------|---------------:|
-| 🔥 Problems Solved | **59** |
-| 📅 Current Streak | **59 Days** |
-| 🎯 Challenge Goal | **100 Days** |
-| 📈 Progress | **59% Complete** |
-| 💻 Language | Python |
-| 📚 Platform | LeetCode |
+| Metric | Current Status |
+|--------------------------|:-------------:|
+| 🔥 Problems Solved | **60** |
+| 📅 Current Streak | **60 Days** |
+| 🎯 Goal | **100 Days** |
+| 📈 Completion | **60%** |
+| 💻 Programming Language | Python |
+| 🧠 Platform | LeetCode |
+| ⭐ Repository Status | Active |
+
+---
+
+# 📈 Overall Progress
+
+```
+
+████████████████████████░░░░░░░░░░░░░░░░░░
+
+60 / 100 Days
+
+60% Complete
+
+```
 
 ---
 
 # 🧠 Skills Covered
 
-### Data Structures
+## Data Structures
 
 - ✅ Arrays
 - ✅ Strings
 - ✅ Hash Maps
+- ✅ Hash Sets
 - ✅ Linked Lists
-- ✅ Stacks
+- ✅ Stack
+- ✅ Queue
 - ✅ Binary Trees
 - ✅ Binary Search Trees
 - ✅ Graphs
 - ✅ Matrices
 
-### Algorithms
+---
+
+## Algorithms
 
 - ✅ Binary Search
 - ✅ Two Pointers
 - ✅ Fast & Slow Pointer
-- ✅ Recursion
-- ✅ Depth First Search (DFS)
-- ✅ Breadth First Search (BFS)
-- ✅ Dynamic Programming
-- ✅ Greedy
+- ✅ Sliding Window
 - ✅ Prefix Sum
-- ✅ Matrix Traversal
+- ✅ Recursion
+- ✅ DFS
+- ✅ BFS
+- ✅ Greedy Algorithms
+- ✅ Dynamic Programming
 - ✅ Tree Traversal
 - ✅ Graph Traversal
+- ✅ Bit Manipulation
 
 ---
 
@@ -91,399 +153,866 @@ Today marks **Day 50**, representing the halfway point of this incredible journe
 ```text
 100-days-of-coding/
 
+│
 ├── README.md
+│
 ├── Day-01
 ├── Day-02
 ├── Day-03
-│
 ├── ...
-│
-├── Day-48
-├── Day-49
+├── Day-20
+├── Day-21
+├── ...
+├── Day-40
+├── ...
 ├── Day-50
-├── Day-58
+├── ...
+├── Day-60
 │
-└── solution.py + problem.md
+└── Each Folder Contains
+      ├── problem.md
+      └── solution.py
 ```
 
-Each folder contains:
+### Every folder contains
 
-- `problem.md` → Problem statement, approach, and complexity.
-- `solution.py` → Python solution.
-
----
-
-# 📅 Daily Progress (Days 1–15)
-
-| Day | Problem | Main Topic |
-|----:|-----------------------------------|---------------------------|
-| 01 | Two Sum | Arrays, Hash Map |
-| 02 | Remove Linked List Elements | Linked List |
-| 03 | Group Anagrams | Hash Map, Strings |
-| 04 | Same Tree | Binary Tree |
-| 05 | Top K Frequent Elements | Hash Map |
-| 06 | Invert Binary Tree | Binary Tree, DFS |
-| 07 | Best Time to Buy and Sell Stock | Arrays, Greedy |
-| 08 | Min Stack | Stack |
-| 09 | Merge Intervals | Sorting, Greedy |
-| 10 | Maximum Depth of Binary Tree | Binary Tree |
-| 11 | Maximum Subarray | Dynamic Programming |
-| 12 | Reverse Linked List | Linked List |
-| 13 | Product of Array Except Self | Arrays |
-| 14 | Symmetric Tree | Binary Tree |
-| 15 | Two Sum II – Input Array Is Sorted | Two Pointers, Binary Search |
----
-
-# 📅 Daily Progress (Days 16–30)
-
-| Day | Problem | Main Topic |
-|----:|---------------------------------------------|----------------------------|
-| 16 | Valid Parentheses | Stack |
-| 17 | Contains Duplicate | Hash Set |
-| 18 | Merge Two Sorted Lists | Linked List |
-| 19 | Binary Search | Binary Search |
-| 20 | Valid Anagram | Strings, Hash Map |
-| 21 | Flood Fill | DFS |
-| 22 | Number of Islands | Graph, DFS |
-| 23 | Climbing Stairs | Dynamic Programming |
-| 24 | Search Insert Position | Binary Search |
-| 25 | Move Zeroes | Two Pointers |
-| 26 | Valid Palindrome | Strings, Two Pointers |
-| 27 | Diameter of Binary Tree | Binary Tree |
-| 28 | Balanced Binary Tree | Binary Tree |
-| 29 | Merge Sorted Array | Arrays |
-| 30 | Majority Element | Arrays, Hash Map |
+- 📄 Problem Statement
+- 💡 Approach
+- ⚡ Time Complexity
+- 💾 Space Complexity
+- 🐍 Python Solution
 
 ---
 
-# 📅 Daily Progress (Days 31–50)
+# 📅 Daily Progress (Days 1–20)
 
-| Day | Problem | Main Topic |
-|----:|---------------------------------------------|----------------------------|
-| 31 | Missing Number | Arrays |
-| 32 | Single Number | Bit Manipulation |
-| 33 | Pascal's Triangle | Dynamic Programming |
-| 34 | Ransom Note | Hash Map |
-| 35 | Intersection of Two Arrays | Hash Set |
-| 36 | Happy Number | Hash Set |
-| 37 | Plus One | Arrays |
-| 38 | Maximum Product Subarray | Dynamic Programming |
-| 39 | Longest Common Prefix | Strings |
-| 40 | Find Pivot Index | Prefix Sum |
-| 41 | Squares of a Sorted Array | Two Pointers |
-| 42 | Rotate Array | Arrays |
-| 43 | Merge Strings Alternately | Strings |
-| 44 | Find the Difference | Strings |
-| 45 | Richest Customer Wealth | Matrix |
-| 46 | Running Sum of 1D Array | Prefix Sum |
-| 47 | Kids With the Greatest Number of Candies | Arrays |
-| 48 | Shuffle the Array | Arrays |
-| 49 | Concatenation of Array | Arrays |
-| 50 | Final Day Challenge | Problem Solving |
+| Day | LeetCode Problem | Difficulty | Main Topic |
+|----:|-------------------------------|:---------:|------------------------|
+| 01 | Two Sum | Easy | Arrays, Hash Map |
+| 02 | Remove Linked List Elements | Easy | Linked List |
+| 03 | Group Anagrams | Medium | Hash Map |
+| 04 | Same Tree | Easy | Binary Tree |
+| 05 | Top K Frequent Elements | Medium | Hash Map |
+| 06 | Invert Binary Tree | Easy | DFS |
+| 07 | Best Time to Buy and Sell Stock | Easy | Greedy |
+| 08 | Min Stack | Medium | Stack |
+| 09 | Merge Intervals | Medium | Sorting |
+| 10 | Maximum Depth of Binary Tree | Easy | Tree |
+| 11 | Maximum Subarray | Medium | Dynamic Programming |
+| 12 | Reverse Linked List | Easy | Linked List |
+| 13 | Product of Array Except Self | Medium | Arrays |
+| 14 | Symmetric Tree | Easy | Binary Tree |
+| 15 | Two Sum II | Medium | Two Pointers |
+| 16 | Valid Parentheses | Easy | Stack |
+| 17 | Contains Duplicate | Easy | Hash Set |
+| 18 | Merge Two Sorted Lists | Easy | Linked List |
+| 19 | Binary Search | Easy | Binary Search |
+| 20 | Valid Anagram | Easy | Strings |
+
+---
+
+# 📅 Daily Progress (Days 21–40)
+
+| Day | LeetCode Problem | Difficulty | Main Topic |
+|----:|-------------------------------------------|:---------:|------------------------------|
+| 21 | Flood Fill | Easy | DFS |
+| 22 | Number of Islands | Medium | Graph, DFS |
+| 23 | Climbing Stairs | Easy | Dynamic Programming |
+| 24 | Search Insert Position | Easy | Binary Search |
+| 25 | Move Zeroes | Easy | Two Pointers |
+| 26 | Valid Palindrome | Easy | Strings, Two Pointers |
+| 27 | Diameter of Binary Tree | Easy | Trees |
+| 28 | Balanced Binary Tree | Easy | Trees |
+| 29 | Merge Sorted Array | Easy | Arrays |
+| 30 | Majority Element | Easy | Arrays, Hash Map |
+| 31 | Missing Number | Easy | Arrays |
+| 32 | Single Number | Easy | Bit Manipulation |
+| 33 | Pascal's Triangle | Easy | Dynamic Programming |
+| 34 | Ransom Note | Easy | Hash Map |
+| 35 | Intersection of Two Arrays | Easy | Hash Set |
+| 36 | Happy Number | Easy | Hash Set |
+| 37 | Plus One | Easy | Arrays |
+| 38 | Maximum Product Subarray | Medium | Dynamic Programming |
+| 39 | Longest Common Prefix | Easy | Strings |
+| 40 | Find Pivot Index | Easy | Prefix Sum |
 
 ---
 
 # 📈 Statistics
 
 | Category | Count |
-|------------------------------|------:|
-| Total Days Completed | **50** |
-| Problems Solved | **50** |
-| Easy Problems | **34** |
-| Medium Problems | **15** |
+|----------------------------|------:|
+| Total Days Completed | **60** |
+| Total Problems Solved | **60** |
+| Easy Problems | **42** |
+| Medium Problems | **17** |
 | Hard Problems | **1** |
-| Success Rate | **100%** |
-| Coding Language | Python |
+| Acceptance Rate | **100%** |
+| Programming Language | Python |
 | Platform | LeetCode |
 
 ---
 
-# 📚 Topic Coverage
+# 📚 DSA Topic Coverage
 
 | Topic | Problems Solved |
-|--------------------------|---------------:|
-| Arrays | 16 |
-| Strings | 8 |
-| Hash Map / Hash Set | 8 |
+|----------------------------|---------------:|
+| Arrays | 17 |
+| Strings | 9 |
+| Hash Map | 8 |
+| Hash Set | 4 |
 | Linked List | 3 |
-| Binary Trees | 6 |
 | Stack | 2 |
-| Binary Search | 2 |
+| Queue | 1 |
+| Binary Search | 4 |
 | Two Pointers | 4 |
-| Dynamic Programming | 3 |
-| DFS / BFS | 3 |
 | Prefix Sum | 2 |
+| Trees | 7 |
+| Graphs | 2 |
+| DFS | 5 |
+| BFS | 1 |
+| Dynamic Programming | 3 |
 | Greedy | 2 |
 | Matrix | 1 |
 | Bit Manipulation | 1 |
 
 ---
 
-# 🏆 Milestones
+# 🏆 Major Milestones
 
-### ✅ Day 10
-- Built a consistent coding habit.
-- Improved understanding of arrays and linked lists.
+## 🎉 Day 10
 
-### ✅ Day 20
-- Started solving problems much faster.
-- Learned Binary Search and Stack techniques.
+- Built the habit of coding daily.
+- Improved confidence with Arrays and Linked Lists.
+- Started understanding algorithmic thinking.
 
-### ✅ Day 30
-- Strong understanding of Trees, DFS, and Dynamic Programming.
-- Noticeable improvement in coding confidence.
+---
 
-### ✅ Day 40
-- Comfortable solving Easy and many Medium-level questions.
-- Better pattern recognition across DSA topics.
-
-### 🥳 Day 50 (Halfway Milestone)
-
-🎉 Reached **50 consecutive days** of coding.
+## 🎉 Day 20
 
 Achievements:
-- ✅ 50 LeetCode problems solved
-- ✅ Consistency maintained for 50 days
-- ✅ Strong grasp of core DSA concepts
-- ✅ Improved logical thinking and debugging skills
-- ✅ Halfway to completing the challenge
 
----
----
-
-# 🛣️ DSA Roadmap Progress
-
-| Topic | Progress |
-|----------------------------|:---------:|
-| Arrays | ██████████ 100% |
-| Strings | █████████░ 90% |
-| Hash Maps / Sets | █████████░ 90% |
-| Linked Lists | ████████░░ 80% |
-| Stack | ███████░░░ 70% |
-| Queue | ███░░░░░░░ 30% |
-| Binary Search | ████████░░ 80% |
-| Two Pointers | ████████░░ 80% |
-| Sliding Window | ████░░░░░░ 40% |
-| Prefix Sum | ███████░░░ 70% |
-| Recursion | ███████░░░ 70% |
-| Trees | █████████░ 90% |
-| BST | ███████░░░ 70% |
-| Graphs | ██████░░░░ 60% |
-| Heap / Priority Queue | ███░░░░░░░ 30% |
-| Dynamic Programming | ██████░░░░ 60% |
-| Greedy | ██████░░░░ 60% |
-| Backtracking | ██░░░░░░░░ 20% |
-| Bit Manipulation | █████░░░░░ 50% |
+- Completed 20 consecutive coding days.
+- Learned Binary Search fundamentals.
+- Improved Stack concepts.
+- Faster debugging.
 
 ---
 
-# 💻 Tech Stack
+## 🎉 Day 30
 
-### Programming Language
+Achievements:
 
-- 🐍 Python 3
-
-### Platform
-
-- LeetCode
-
-### IDE
-
-- Visual Studio Code
-
-### Version Control
-
-- Git
-- GitHub
+- Strong understanding of Trees.
+- Comfortable using DFS.
+- Learned Dynamic Programming basics.
+- Better optimization techniques.
 
 ---
 
-# 📖 Learning Highlights
+## 🎉 Day 40
 
-Throughout these 50 days, I have learned:
+Achievements:
 
-- Writing clean and optimized Python code.
-- Identifying algorithmic patterns.
-- Improving time and space complexity.
-- Solving problems using multiple approaches.
-- Understanding when to use Hash Maps, Trees, DFS, BFS, Dynamic Programming, and Greedy Algorithms.
+- Solved multiple Medium-level questions.
+- Improved problem pattern recognition.
+- Increased coding speed.
+- Better understanding of Prefix Sum and Bit Manipulation.
+
+---
+
+# 📅 Weekly Journey
+
+## ✅ Week 1
+
+- Completed first seven LeetCode problems.
+- Developed consistency.
+- Learned Arrays.
+
+---
+
+## ✅ Week 2
+
+Focused on:
+
+- Linked Lists
+- Hash Maps
+- Binary Trees
+
+---
+
+## ✅ Week 3
+
+Focused on:
+
+- Binary Search
+- Stack
+- Strings
+
+---
+
+## ✅ Week 4
+
+Focused on:
+
+- Trees
+- DFS
+- Graph Traversal
+
+---
+
+## ✅ Week 5
+
+Focused on:
+
+- Dynamic Programming
+- Prefix Sum
+- Arrays
+
+---
+
+## ✅ Week 6
+
+Focused on:
+
+- Pattern Recognition
+- Cleaner Python Code
+- Optimization
+
+---
+
+# 💡 What I Learned During Days 1–40
+
+Throughout the first 40 days I significantly improved in:
+
+- Breaking down complex problems.
+- Choosing suitable data structures.
+- Writing readable Python code.
+- Optimizing brute-force solutions.
+- Understanding time complexity.
+- Understanding space complexity.
 - Debugging efficiently.
-- Building consistency through daily practice.
+- Reading problem constraints before coding.
+- Identifying common DSA patterns.
 
 ---
 
-# 🌟 Favorite Problems
+# 📈 Coding Growth
+
+```
+
+Day 01 █
+
+Day 05 █████
+
+Day 10 ██████████
+
+Day 20 ████████████████████
+
+Day 30 ██████████████████████████████
+
+Day 40 ████████████████████████████████████████
+
+```
+
+---
+# 📅 Daily Progress (Days 41–60)
+
+| Day | LeetCode Problem | Difficulty | Main Topic |
+|----:|-----------------------------------------------|:---------:|-------------------------------|
+| 41 | Squares of a Sorted Array | Easy | Two Pointers |
+| 42 | Rotate Array | Medium | Arrays |
+| 43 | Merge Strings Alternately | Easy | Strings |
+| 44 | Find the Difference | Easy | Strings, Bit Manipulation |
+| 45 | Richest Customer Wealth | Easy | Matrix |
+| 46 | Find the Duplicate Number (287) | Medium | Binary Search, Floyd Cycle |
+| 47 | Maximum Count of Positive Integer and Negative Integer | Easy | Binary Search |
+| 48 | Search Insert Position | Easy | Binary Search |
+| 49 | Number of Islands | Medium | Graph, DFS |
+| 50 | Kth Largest Element in an Array | Medium | Heap |
+| 51 | Contains Duplicate II | Easy | Hash Map, Sliding Window |
+| 52 | Maximum Depth of Binary Tree | Easy | Trees, DFS |
+| 53 | Valid Sudoku | Medium | Matrix, Hash Set |
+| 54 | Best Time to Buy and Sell Stock II | Medium | Greedy |
+| 55 | Valid Parentheses | Easy | Stack |
+| 56 | Roman to Integer | Easy | Hash Map |
+| 57 | Length of Last Word | Easy | Strings |
+| 58 | Palindrome Number | Easy | Math |
+| 59 | Merge Two Sorted Lists | Easy | Linked List |
+| 60 | Binary Tree Inorder Traversal | Easy | Tree, DFS |
+
+---
+
+# 📊 Updated Challenge Statistics
+
+| Category | Value |
+|------------------------------|------:|
+| Total Days Completed | **60** |
+| Problems Solved | **60** |
+| Current Streak | **60 Days** |
+| Progress | **60%** |
+| Easy Problems | **42** |
+| Medium Problems | **17** |
+| Hard Problems | **1** |
+| Programming Language | Python |
+| Platform | LeetCode |
+
+---
+
+# 🥳 Day 50 Milestone
+
+Reaching Day 50 was an important milestone in this journey.
+
+Achievements:
+
+- ✅ Halfway through the challenge
+- ✅ 50 consecutive days completed
+- ✅ Strong understanding of core DSA concepts
+- ✅ Improved coding consistency
+- ✅ Better debugging skills
+- ✅ Faster implementation
+
+---
+
+# 🚀 Day 60 Milestone
+
+Completing **60 consecutive days** is more than just solving 60 problems—it's proof that consistency creates real progress.
+
+### Achievements Unlocked
+
+- 🎯 60 consecutive coding days
+- 💯 60 LeetCode problems solved
+- 📈 Significant improvement in problem-solving speed
+- 🧠 Better algorithmic thinking
+- ⚡ Cleaner and more optimized Python code
+- 🌳 Strong understanding of Trees and DFS
+- 🌐 Better Graph traversal skills
+- 🔍 Improved Binary Search techniques
+- 🧩 Greater confidence with Medium-level questions
+
+---
+
+# 📚 Learning Highlights
+
+Over the last **60 days**, I have learned:
+
+### Arrays
+
+- Prefix Sum
+- Rotation techniques
+- In-place modification
+- Simulation problems
+
+### Strings
+
+- Character frequency
+- Hashing
+- Two pointers
+- String manipulation
+
+### Trees
+
+- Recursive DFS
+- Tree traversal
+- Binary Tree problems
+- Inorder traversal
+- Tree depth
+
+### Graphs
+
+- DFS traversal
+- Grid traversal
+- Connected components
+- Island problems
+
+### Hashing
+
+- Hash Map
+- Hash Set
+- Frequency counting
+- Duplicate detection
+
+### Searching
+
+- Binary Search
+- Search space optimization
+- Floyd Cycle Detection
+
+### Other Concepts
+
+- Greedy Algorithms
+- Sliding Window
+- Matrix Traversal
+- Heap
+- Bit Manipulation
+
+---
+
+# ❤️ Favorite Problems
+
+Some of my favorite problems from the challenge so far:
 
 ⭐ Two Sum
 
-⭐ Number of Islands
-
-⭐ Maximum Subarray
-
 ⭐ Product of Array Except Self
-
-⭐ Merge Intervals
-
-⭐ Diameter of Binary Tree
-
-⭐ Flood Fill
-
-⭐ Binary Search
-
-⭐ Climbing Stairs
 
 ⭐ Maximum Product Subarray
 
----
+⭐ Find the Duplicate Number
 
-# 📅 Weekly Milestones
+⭐ Number of Islands
 
-## Week 1
-- Completed first seven coding challenges.
-- Built consistency.
+⭐ Valid Sudoku
 
-## Week 2
-- Mastered Arrays and Linked Lists.
+⭐ Kth Largest Element in an Array
 
-## Week 3
-- Learned Binary Search and Stacks.
+⭐ Binary Tree Inorder Traversal
 
-## Week 4
-- Started Trees and Graph Traversals.
+⭐ Flood Fill
 
-## Week 5
-- Practiced Dynamic Programming and Prefix Sum.
-
-## Week 6
-- Improved optimization skills.
-
-## Week 7
-- Focused on pattern recognition.
-
-## Week 8
-- Completed 50 consecutive days.
+⭐ Diameter of Binary Tree
 
 ---
 
 # 📈 Current Progress
 
 ```
-█████████████████████░░░░░░░░░░░░░░░░░░░░
 
-          58 / 100 Days
+████████████████████████░░░░░░░░░░░░░░░░░░
 
-             58%
-```
+60 / 100 Days
 
----
+60% Complete
 
-# 🎯 Goals for Days 51–100
-
-- ✅ Complete the remaining 50 days.
-- ✅ Solve more Medium and Hard questions.
-- ✅ Master Dynamic Programming.
-- ✅ Learn Advanced Graph Algorithms.
-- ✅ Improve contest rating.
-- ✅ Participate in weekly LeetCode contests.
-- ✅ Strengthen interview preparation.
-- ✅ Continue documenting every day's learning.
-
----
----
-
-# 📊 GitHub Statistics
-
-### Challenge Summary
-
-| Achievement | Status |
-|-------------------------------|:------:|
-| ✅ 50 Consecutive Days | ✔️ |
-| ✅ 50 Problems Solved | ✔️ |
-| ✅ Python Solutions | ✔️ |
-| ✅ GitHub Repository Updated Daily | ✔️ |
-| 🚀 Halfway Through Challenge | ✔️ |
-
----
-
-# 📈 Progress Graph
-
-```
-Day 01  █
-Day 05  █████
-Day 10  ██████████
-Day 20  ████████████████████
-Day 30  ██████████████████████████████
-Day 40  ████████████████████████████████████████
-Day 50  ██████████████████████████████████████████████████
 ```
 
 ---
 
 # 🏅 Achievements
 
-🏆 Completed **50 Days** of consistent coding.
+🏆 Completed **60 Consecutive Days**
 
-🏆 Solved **50+ LeetCode Problems**
+🏆 Solved **60 LeetCode Problems**
 
-🏆 Improved DSA Fundamentals
+🏆 Maintained Daily Consistency
 
-🏆 Developed Daily Coding Discipline
+🏆 Strengthened DSA Fundamentals
 
-🏆 Better Time & Space Complexity Analysis
+🏆 Improved Time Complexity Analysis
 
-🏆 Strengthened Interview Preparation
+🏆 Improved Space Optimization
 
-🏆 Improved Problem-Solving Skills
+🏆 Better Debugging Skills
+
+🏆 Strong Interview Preparation
+
+🏆 Daily GitHub Contributions
 
 ---
 
-# 🚀 Upcoming Topics
+# 📊 Progress Graph
 
-The next phase of the challenge (Days **51–100**) will focus on:
+```
+
+Day 01  █
+
+Day 10  ██████████
+
+Day 20  ████████████████████
+
+Day 30  ██████████████████████████████
+
+Day 40  ████████████████████████████████████████
+
+Day 50  ██████████████████████████████████████████████████
+
+Day 60  ████████████████████████████████████████████████████████████
+
+```
+
+---# 🛣️ DSA Roadmap Progress
+
+This roadmap tracks my confidence and exposure across the major Data Structures and Algorithms topics after completing **60 days** of coding.
+
+| Topic | Progress |
+|-----------------------------|:---------:|
+| Arrays | ██████████ 100% |
+| Strings | ██████████ 100% |
+| Hash Maps | █████████░ 90% |
+| Hash Sets | █████████░ 90% |
+| Linked Lists | ████████░░ 80% |
+| Stack | ████████░░ 80% |
+| Queue | █████░░░░░ 50% |
+| Binary Search | █████████░ 90% |
+| Two Pointers | █████████░ 90% |
+| Sliding Window | ██████░░░░ 60% |
+| Prefix Sum | ████████░░ 80% |
+| Recursion | ████████░░ 80% |
+| Binary Trees | ██████████ 100% |
+| Binary Search Trees | ███████░░░ 70% |
+| Graphs | ███████░░░ 70% |
+| Heap / Priority Queue | ██████░░░░ 60% |
+| Dynamic Programming | ███████░░░ 70% |
+| Greedy Algorithms | ███████░░░ 70% |
+| Backtracking | ███░░░░░░░ 30% |
+| Trie | ██░░░░░░░░ 20% |
+| Union Find (DSU) | ██░░░░░░░░ 20% |
+| Segment Tree | █░░░░░░░░░ 10% |
+
+---
+
+# 📈 Topic Distribution
+
+| Category | Problems |
+|--------------------------|------:|
+| Arrays | 17 |
+| Strings | 9 |
+| Hashing | 10 |
+| Linked Lists | 4 |
+| Trees | 8 |
+| Graphs | 2 |
+| Binary Search | 5 |
+| Stack | 3 |
+| Heap | 1 |
+| Matrix | 2 |
+| Dynamic Programming | 3 |
+| Greedy | 3 |
+| Prefix Sum | 2 |
+| Sliding Window | 1 |
+| Bit Manipulation | 2 |
+
+---
+
+# 💻 Tech Stack
+
+## Programming Language
+
+- 🐍 Python 3
+
+---
+
+## Coding Platform
+
+- 💻 LeetCode
+
+---
+
+## IDE
+
+- Visual Studio Code
+
+---
+
+## Version Control
+
+- Git
+- GitHub
+
+---
+
+## Operating System
+
+- Windows 11
+
+---
+
+# 📂 Repository Features
+
+Every day's folder contains:
+
+- ✅ Problem Statement
+- ✅ Optimized Python Solution
+- ✅ Time Complexity
+- ✅ Space Complexity
+- ✅ Approach Explanation
+- ✅ Well-commented Code
+
+---
+
+# 📝 Coding Principles Followed
+
+Throughout this challenge I try to write code that is:
+
+- Clean
+- Readable
+- Optimized
+- Easy to Understand
+- Interview Friendly
+- Well Structured
+
+Instead of only focusing on getting an Accepted submission, I focus on understanding **why the solution works** and how it can be optimized further.
+
+---
+
+# 📚 Weekly Journey
+
+## Week 1
+
+- Started the challenge.
+- Built consistency.
+- Solved basic Array problems.
+
+---
+
+## Week 2
+
+Focused on:
+
+- Linked Lists
+- Hash Maps
+- Trees
+
+---
+
+## Week 3
+
+Focused on:
+
+- Binary Search
+- Stacks
+- Strings
+
+---
+
+## Week 4
+
+Focused on:
+
+- Trees
+- DFS
+- Graphs
+
+---
+
+## Week 5
+
+Focused on:
+
+- Dynamic Programming
+- Prefix Sum
+- Arrays
+
+---
+
+## Week 6
+
+Focused on:
+
+- Optimization
+- Pattern Recognition
+- Cleaner Code
+
+---
+
+## Week 7
+
+Focused on:
+
+- Binary Search
+- Matrix Problems
+- DFS
+
+---
+
+## Week 8
+
+Focused on:
+
+- Heap
+- Greedy
+- Graph Traversal
+
+---
+
+## Week 9
+
+Focused on:
+
+- Trees
+- Hashing
+- Sliding Window
+
+---
+
+# 📅 Monthly Summary
+
+## Month 1 (Days 1–30)
+
+### Highlights
+
+- Built a strong coding habit.
+- Learned Arrays and Strings.
+- Solved Linked List problems.
+- Learned Binary Search.
+- Explored Trees.
+- Started Dynamic Programming.
+
+---
+
+## Month 2 (Days 31–60)
+
+### Highlights
+
+- Improved problem-solving speed.
+- Solved more Medium-level questions.
+- Learned Floyd Cycle Detection.
+- Practiced Graph Traversal.
+- Solved Matrix problems.
+- Improved Tree recursion.
+- Became more comfortable with Greedy Algorithms.
+- Better understanding of Binary Search patterns.
+
+---
+
+# 💡 Coding Philosophy
+
+> "Every solved problem teaches a new pattern."
+
+Rather than memorizing solutions, my goal is to understand:
+
+- Why the algorithm works.
+- Where the pattern can be reused.
+- How to optimize brute-force solutions.
+- How to write clean interview-quality code.
+
+Consistency has proven to be far more valuable than occasional bursts of motivation.
+
+---
+
+# 🚀 What's Improving Every Week?
+
+After 60 days, I've noticed improvements in:
+
+- Faster problem understanding
+- Better edge-case handling
+- Reduced debugging time
+- Improved coding speed
+- Cleaner variable naming
+- Better algorithm selection
+- Improved confidence with Medium-level questions
+- Better intuition for DSA patterns
+
+---# 🚀 Goals for Days 61–100
+
+The next phase of my journey will focus on advancing beyond the fundamentals and tackling more challenging DSA concepts.
+
+## 🎯 Technical Goals
+
+- ✅ Complete all 100 days without breaking the streak.
+- ✅ Solve more Medium and Hard LeetCode problems.
+- ✅ Master Dynamic Programming.
+- ✅ Learn Sliding Window patterns.
+- ✅ Master Monotonic Stack.
+- ✅ Learn Heap / Priority Queue.
+- ✅ Practice Graph Algorithms.
+- ✅ Master Union Find (Disjoint Set Union).
+- ✅ Learn Trie Data Structure.
+- ✅ Solve Backtracking problems.
+- ✅ Learn Segment Trees.
+- ✅ Explore Advanced Binary Search.
+- ✅ Participate in Weekly LeetCode Contests.
+
+---
+
+## 💼 Career Goals
+
+- Improve coding interview preparation.
+- Build stronger DSA intuition.
+- Enhance problem-solving speed.
+- Develop cleaner and more optimized Python solutions.
+- Build an impressive GitHub portfolio.
+- Prepare for Software Development and Cybersecurity interviews.
+
+---
+
+# 📈 Future Learning Roadmap
+
+The upcoming topics I plan to explore include:
 
 - Sliding Window
 - Monotonic Stack
 - Heap / Priority Queue
-- Backtracking
-- Binary Search on Answer
-- Advanced Trees
 - Trie
-- Union Find (Disjoint Set)
+- Union Find (DSU)
+- Backtracking
 - Graph Algorithms
-- Dynamic Programming (Advanced)
-- Bit Manipulation
-- Greedy Algorithms
-- Interval Problems
+- Topological Sorting
+- Shortest Path Algorithms
+- Advanced Dynamic Programming
+- Segment Trees
+- Fenwick Trees
+- Bitmask DP
+
+---
+
+# 📊 GitHub Repository Highlights
+
+### Repository Features
+
+- ✅ Daily Updates
+- ✅ Organized Folder Structure
+- ✅ Python Solutions
+- ✅ Complexity Analysis
+- ✅ Clean Code
+- ✅ Interview-Oriented Problems
+- ✅ Consistent Documentation
+
+---
+
+### Current Challenge Summary
+
+| Achievement | Status |
+|-------------------------------|:------:|
+| 60 Consecutive Coding Days | ✅ |
+| 60 LeetCode Problems | ✅ |
+| Daily GitHub Updates | ✅ |
+| Python Solutions | ✅ |
+| DSA Practice | ✅ |
+| Interview Preparation | ✅ |
+
+---
+
+# 🌟 Why This Repository?
+
+This repository serves as:
+
+- A personal coding journal.
+- A record of consistent learning.
+- A collection of Python-based LeetCode solutions.
+- A resource for interview preparation.
+- A demonstration of long-term commitment to improving problem-solving skills.
 
 ---
 
 # 🤝 Connect With Me
 
-### GitHub
+## GitHub
 
 **Animesh Daiman**
 
-👉 https://github.com/AnimeshDaiman7
+🔗 https://github.com/AnimeshDaiman7
 
-### LinkedIn
+---
 
-Connect with me and follow my coding journey!
+## LinkedIn
 
-👉 https://www.linkedin.com/in/animesh-daiman/
+Let's connect and grow together!
+
+🔗 https://www.linkedin.com/in/animesh-daiman/
 
 ---
 
 # ⭐ Support
 
-If you found this repository useful,
+If you find this repository useful,
 
-⭐ **Star this repository**
+⭐ Star the repository
 
-🍴 **Fork it**
+🍴 Fork the repository
 
-💻 **Follow my coding journey**
+👨‍💻 Follow my coding journey
 
-Every star motivates me to continue learning and sharing my progress!
+Every star motivates me to keep learning and improving.
 
 ---
 
@@ -493,16 +1022,79 @@ Special thanks to:
 
 - **LeetCode** for providing an excellent platform to practice coding.
 - **Dr. G. Viswanathan Challenge** for inspiring consistency and continuous learning.
-- The open-source community for valuable learning resources.
-- Everyone supporting my #100DaysOfCode journey.
+- The open-source community for countless learning resources.
+- Everyone who has supported and encouraged me throughout this challenge.
 
 ---
 
 # 📜 License
 
-This repository is shared for **learning and educational purposes**.
+This repository is intended for learning and educational purposes.
 
-Feel free to explore the solutions, learn from them, and improve upon them.
+Feel free to:
+
+- Explore the solutions.
+- Learn from different approaches.
+- Improve upon the implementations.
+- Share knowledge with others.
+
+---
+
+# 📅 Challenge Timeline
+
+```
+
+Day 01  █
+
+Day 10  ██████████
+
+Day 20  ████████████████████
+
+Day 30  ██████████████████████████████
+
+Day 40  ████████████████████████████████████████
+
+Day 50  ██████████████████████████████████████████████████
+
+Day 60  ████████████████████████████████████████████████████████████
+
+Day 70  ░░░░░░░░░░
+
+Day 80  ░░░░░░░░░░
+
+Day 90  ░░░░░░░░░░
+
+Day 100 🎯
+
+```
+
+---
+
+# 📌 Repository Statistics
+
+```
+Repository Name : 100-days-of-coding
+
+Language        : Python
+
+Problems Solved : 60
+
+Current Day     : 60
+
+Progress        : 60%
+
+Platform        : LeetCode
+
+Status          : Active
+
+Last Updated    : Day 60
+```
+
+---
+
+# 💬 Quote That Drives This Journey
+
+> **"Success isn't built in a day; it's built every day."**
 
 ---
 
@@ -510,14 +1102,20 @@ Feel free to explore the solutions, learn from them, and improve upon them.
 
 # 🎉 Thank You for Visiting!
 
-### ⭐ If you like this repository, don't forget to leave a Star ⭐
+If you enjoyed this repository or found it useful,
 
-### 🚀 See you on **Day 100!**
+### ⭐ Please consider giving it a Star!
 
 ---
 
-**Happy Coding! 💙**
+## 🚀 Road to Day 100 Continues...
+
+**See you on Day 61!**
+
+---
 
 Made with ❤️ by **Animesh Daiman**
+
+Happy Coding! 💙
 
 </div>
