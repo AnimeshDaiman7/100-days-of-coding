@@ -8,8 +8,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode)
-![Progress](https://img.shields.io/badge/Progress-61%25-success?style=for-the-badge)
-![Completed](https://img.shields.io/badge/Completed-61_Days-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-62%25-success?style=for-the-badge)
+![Completed](https://img.shields.io/badge/Completed-62_Days-red?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
@@ -88,10 +88,10 @@ Every day's folder contains both the solution and notes explaining the approach 
 
 | Metric | Current Status |
 |--------------------------|:-------------:|
-| 🔥 Problems Solved | **61** |
-| 📅 Current Streak | **61 Days** |
+| 🔥 Problems Solved | **62** |
+| 📅 Current Streak | **62 Days** |
 | 🎯 Goal | **100 Days** |
-| 📈 Completion | **61%** |
+| 📈 Completion | **62%** |
 | 💻 Programming Language | Python |
 | 🧠 Platform | LeetCode |
 | ⭐ Repository Status | Active |
@@ -104,9 +104,9 @@ Every day's folder contains both the solution and notes explaining the approach 
 
 ████████████████████████░░░░░░░░░░░░░░░░░░
 
-61 / 100 Days
+62 / 100 Days
 
-61% Complete
+62% Complete
 
 ```
 
@@ -580,9 +580,9 @@ Some of my favorite problems from the challenge so far:
 
 ████████████████████████░░░░░░░░░░░░░░░░░░
 
-60 / 100 Days
+62 / 100 Days
 
-60% Complete
+62% Complete
 
 ```
 
@@ -1077,17 +1077,17 @@ Repository Name : 100-days-of-coding
 
 Language        : Python
 
-Problems Solved : 60
+Problems Solved : 62
 
-Current Day     : 60
+Current Day     : 62
 
-Progress        : 60%
+Progress        : 62%
 
 Platform        : LeetCode
 
 Status          : Active
 
-Last Updated    : Day 60
+Last Updated    : Day 62
 ```
 
 ---
@@ -1110,7 +1110,7 @@ If you enjoyed this repository or found it useful,
 
 ## 🚀 Road to Day 100 Continues...
 
-**See you on Day 61!**
+**See you on Day 63!**
 
 ---
 
