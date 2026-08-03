@@ -8,8 +8,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode)
-![Progress](https://img.shields.io/badge/Progress-65%25-success?style=for-the-badge)
-![Completed](https://img.shields.io/badge/Completed-65_Days-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-66%25-success?style=for-the-badge)
+![Completed](https://img.shields.io/badge/Completed-66_Days-red?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
