@@ -8,8 +8,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode)
-![Progress](https://img.shields.io/badge/Progress-69%25-success?style=for-the-badge)
-![Completed](https://img.shields.io/badge/Completed-69_Days-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-70%25-success?style=for-the-badge)
+![Completed](https://img.shields.io/badge/Completed-70_Days-red?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
@@ -88,10 +88,10 @@ Every day's folder contains both the solution and notes explaining the approach 
 
 | Metric | Current Status |
 |--------------------------|:-------------:|
-| 🔥 Problems Solved | **69** |
-| 📅 Current Streak | **69 Days** |
+| 🔥 Problems Solved | **70** |
+| 📅 Current Streak | **70 Days** |
 | 🎯 Goal | **100 Days** |
-| 📈 Completion | **69%** |
+| 📈 Completion | **70%** |
 | 💻 Programming Language | Python |
 | 🧠 Platform | LeetCode |
 | ⭐ Repository Status | Active |
@@ -102,11 +102,11 @@ Every day's folder contains both the solution and notes explaining the approach 
 
 ```
 
-████████████████████████░░░░░░░░░░░░░░░░░░
+██████████████████████████░░░░░░░░░░░░░░░░
 
-65 / 100 Days
+70 / 100 Days
 
-65% Complete
+70% Complete
 
 ```
 
