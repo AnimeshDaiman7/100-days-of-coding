@@ -8,8 +8,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode)
-![Progress](https://img.shields.io/badge/Progress-72%25-success?style=for-the-badge)
-![Completed](https://img.shields.io/badge/Completed-72_Days-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-73%25-success?style=for-the-badge)
+![Completed](https://img.shields.io/badge/Completed-73_Days-red?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
@@ -88,10 +88,10 @@ Every day's folder contains both the solution and notes explaining the approach 
 
 | Metric | Current Status |
 |--------------------------|:-------------:|
-| 🔥 Problems Solved | **72** |
-| 📅 Current Streak | **72 Days** |
+| 🔥 Problems Solved | **73** |
+| 📅 Current Streak | **73 Days** |
 | 🎯 Goal | **100 Days** |
-| 📈 Completion | **72%** |
+| 📈 Completion | **73%** |
 | 💻 Programming Language | Python |
 | 🧠 Platform | LeetCode |
 | ⭐ Repository Status | Active |
@@ -104,9 +104,9 @@ Every day's folder contains both the solution and notes explaining the approach 
 
 ██████████████████████████░░░░░░░░░░░░░░░░
 
-72 / 100 Days
+73 / 100 Days
 
-72% Complete
+73% Complete
 
 ```
 
@@ -168,7 +168,10 @@ Every day's folder contains both the solution and notes explaining the approach 
 ├── Day-50
 ├── ...
 ├── Day-60
-│
+├── ...
+├── Day-70
+├── ...
+├──
 └── Each Folder Contains
       ├── problem.md
       └── solution.py
@@ -580,9 +583,9 @@ Some of my favorite problems from the challenge so far:
 
 ████████████████████████░░░░░░░░░░░░░░░░░░
 
-65 / 100 Days
+73 / 100 Days
 
-65% Complete
+73% Complete
 
 ```
 
@@ -1077,17 +1080,17 @@ Repository Name : 100-days-of-coding
 
 Language        : Python
 
-Problems Solved : 65
+Problems Solved : 73
 
-Current Day     : 65
+Current Day     : 73
 
-Progress        : 65%
+Progress        : 73%
 
 Platform        : LeetCode
 
 Status          : Active
 
-Last Updated    : Day 65
+Last Updated    : Day 73
 ```
 
 ---
