@@ -8,8 +8,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode)
-![Progress](https://img.shields.io/badge/Progress-76%25-success?style=for-the-badge)
-![Completed](https://img.shields.io/badge/Completed-76_Days-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-77%25-success?style=for-the-badge)
+![Completed](https://img.shields.io/badge/Completed-77_Days-red?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
@@ -88,10 +88,10 @@ Every day's folder contains both the solution and notes explaining the approach 
 
 | Metric | Current Status |
 |--------------------------|:-------------:|
-| 🔥 Problems Solved | **75** |
-| 📅 Current Streak | **75 Days** |
+| 🔥 Problems Solved | **77** |
+| 📅 Current Streak | **77 Days** |
 | 🎯 Goal | **100 Days** |
-| 📈 Completion | **75%** |
+| 📈 Completion | **77%** |
 | 💻 Programming Language | Python |
 | 🧠 Platform | LeetCode |
 | ⭐ Repository Status | Active |
@@ -104,9 +104,9 @@ Every day's folder contains both the solution and notes explaining the approach 
 
 ██████████████████████████░░░░░░░░░░░░░░░░
 
-75 / 100 Days
+77 / 100 Days
 
-75% Complete
+77% Complete
 
 ```
 
@@ -583,9 +583,9 @@ Some of my favorite problems from the challenge so far:
 
 ████████████████████████░░░░░░░░░░░░░░░░░░
 
-73 / 100 Days
+77 / 100 Days
 
-73% Complete
+77% Complete
 
 ```
 
@@ -1080,17 +1080,17 @@ Repository Name : 100-days-of-coding
 
 Language        : Python
 
-Problems Solved : 73
+Problems Solved : 77
 
-Current Day     : 73
+Current Day     : 77
 
-Progress        : 73%
+Progress        : 77%
 
 Platform        : LeetCode
 
 Status          : Active
 
-Last Updated    : Day 73
+Last Updated    : Day 77
 ```
 
 ---
